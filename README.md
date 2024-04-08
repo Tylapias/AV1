@@ -9,3 +9,8 @@ Nesse trabalho fizemos uma pesquisa junto do acompanhamento de um slide sobre a 
 [Projeto "Play4me"](https://www.canva.com/design/DAF_HwcEQTY/iqvmdZIIAGs672TQqPIIMw/edit?utm_content=DAF_HwcEQTY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Nesse protótipo para telefones celulares foi feito um aplicativo para "EloJob" explicado durante a demonstração visual do projeto.
+
+## Pesquisa feita em markdown
+[Pesquisa Md](https://github.com/Tylapias/aulaMarkdown)
+
+Nessa pesquisa produzida inteiramente em markdown foi feita com objetivo de explicar a engenharia de requisitos como um todo.
